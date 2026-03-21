@@ -16,7 +16,7 @@ The application allows users to add and view student records through a fully ser
 
 ---
 
-## ⚙️ Features
+## ⚙️ Feature
 
 - Add Student Data
 - View All Students
